@@ -1,0 +1,14 @@
+Community-Pharmacy-Assistant/
+├── artifacts/                  # Frontend & Sandbox Apps
+│   ├── api-server/             # Backend API
+│   ├── mockup-sandbox/         # UI component testing area
+│   └── pharmacy-assistant/     # Main AI Assistant App (Frontend)
+├── lib/                        # Shared Logic (The "Brain")
+│   ├── api-client-react/       # Generated API hooks
+│   ├── api-spec/               # OpenAPI/Swagger definitions
+│   ├── api-zod/                # Data validation schemas
+│   ├── db/                     # Drizzle ORM & Database schemas
+│   └── integrations/           # OpenAI / AI Logic
+├── package.json                # Root configuration
+├── pnpm-workspace.yaml         # Monorepo definitions
+└── tsconfig.json               # Global TypeScript rules
