@@ -38,7 +38,7 @@ So I built a lightweight AI assistant that simplifies this process.
 ## 📸 Demo
 
 
-
+https://community-pharmacy-assistant--chintalasandeep.replit.app/
 ---
 
 ## ⚙️ How to run
